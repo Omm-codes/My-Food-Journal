@@ -1,1 +1,1 @@
-# food
+Basic recipe recommendation web
